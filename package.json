@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "survey-react": "latest",
+    "react-dom": "latest",
+    "react": "latest"
+  }
+}
